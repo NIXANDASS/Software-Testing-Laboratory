@@ -1,7 +1,7 @@
 # Ex.No: 1 Write programs in Python Language to demonstrate the working of followingconstructs with possible test cases: a) do…while b) while…do c) if …else d) switch e) for 
 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:23/08/2024                                                                       
+### REGISTER NUMBER : 212222040109
 
 ### AIM:  
 To write python programs for do…while, while, for, switch and if…else and test with possible test 
@@ -14,7 +14,23 @@ Cases
 4.  the program with possible test cases.
 5. Stop the program.
 ### Program:
-
+```
+def display(): 
+    start=input("Enter a positive value for START: ") 
+    end=input("Enter a positive value for END: ") 
+    if start.isnumeric() and end.isnumeric(): 
+        while True: 
+            start=int(start) 
+            end=int(end) 
+            print(start,end=' ') 
+            if start<end: 
+                start+=1 
+            else: 
+                break 
+    else: 
+        print("Enter a valid positive number.")
+display()
+```
 
 
 
