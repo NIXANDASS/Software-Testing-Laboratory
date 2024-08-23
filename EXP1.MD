@@ -14,6 +14,7 @@ Cases
 4.  the program with possible test cases.
 5. Stop the program.
 ### Program:
+####1)do...while
 ```
 def display(): 
     start=input("Enter a positive value for START: ") 
@@ -31,7 +32,8 @@ def display():
         print("Enter a valid positive number.")
 display()
 ```
-
+####2)while..do
+```
 
 
 
