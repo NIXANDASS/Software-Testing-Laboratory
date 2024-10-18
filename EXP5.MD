@@ -1,5 +1,5 @@
-DATE: 27/09/2024
-REGISTER NUMBER : 212222040109
+####DATE: 27/09/2024
+####REGISTER NUMBER : 212222040109
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
 
