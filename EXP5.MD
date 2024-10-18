@@ -53,8 +53,8 @@ except:
 
 
 ### Output:
+![alt text](5-1.png)
 
-![alt text](5.png)
 
 ### Result:
 Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.
